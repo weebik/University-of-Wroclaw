@@ -1,4 +1,4 @@
-# <p align=right>[![image](https://uwr.edu.pl/wp-content/uploads/2022/08/Warstwa_x0020_1.svg)](https://uwr.edu.pl/en/)<p align=center> UWr Repository</p> 
+# <p align=right>[<img src="https://study-in-wroclaw.pl/app/uploads/2022/01/logo.webp" width="200" />](https://uwr.edu.pl/en/)<p align=center> UWr Repository</p> 
 ## <p align=center> This repository contains all my solutions and projects completed during my studies at the University of Wrocław,  [Institute of Computer Science](https://ii.uni.wroc.pl) in 2022-2026.</p>
 ### Term I
   ✔️ Logic for computer scientists<br/>
